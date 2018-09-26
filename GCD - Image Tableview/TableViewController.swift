@@ -25,7 +25,7 @@ class TableViewController: UITableViewController, UITableViewDataSourcePrefetchi
     
     var items = [
         Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/6/67/Ancient_Apparition_icon.png/220px-Ancient_Apparition_icon.png?version=38b1af8a9bfa13c9fe1e4d81212f460a"),
-        Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/c/c3/Bane_icon.png/220px-Bane_icon.png?version=c93accdcfd4c9f898ca1dda6e1a92be7"),
+        Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/26/Abaddon_icon.png/220px-Abaddon_icon.png?version=ec9347ebfdc6849d0c3434a5c23f5380"),
         Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/f/f2/Batrider_icon.png/220px-Batrider_icon.png?version=346f0b6ac1ae6b54b43314dbe2778194"),
         Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/2/27/Crystal_Maiden_icon.png/220px-Crystal_Maiden_icon.png?version=a00d5010bc15832e8e3e75791c3891f4"),
         Model(urlString: "https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/thumb/e/ed/Centaur_Warrunner_icon.png/220px-Centaur_Warrunner_icon.png?version=7e1c57a9c20d8ed17b4f8c84b9321495"),
